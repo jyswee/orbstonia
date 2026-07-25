@@ -1,0 +1,12 @@
+# Marketing repo — README + screenshots only. Builds are distributed via
+# GitHub Releases, never committed to the tree.
+*.zip
+*.apk
+*.aab
+*.dmg
+*.exe
+*.app/
+Builds/
+dist/
+
+.DS_Store
