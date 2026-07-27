@@ -2,7 +2,7 @@
 <p align="center"><b>SIX STONES &nbsp;·&nbsp; ONE THRONE</b></p>
 
 <p align="center">
-  <img src="assets/gameplay.gif" width="82%" alt="ORBSTONIA — neon vector-arena multiplayer gameplay">
+  <img src="https://prodmedia.tyga.host/public/tyga.cloud/landing/orbstonia.com/gameplay.gif" width="82%" alt="ORBSTONIA — neon vector-arena multiplayer gameplay">
 </p>
 
 <p align="center">
