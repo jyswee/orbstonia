@@ -2,11 +2,13 @@
 <p align="center"><b>SIX STONES &nbsp;·&nbsp; ONE THRONE</b></p>
 
 <p align="center">
-  <img src="https://prodmedia.tyga.host/public/tyga.cloud/landing/orbstonia.com/gameplay.gif" width="82%" alt="ORBSTONIA — neon vector-arena multiplayer gameplay">
+  <img src="https://prodmedia.tyga.host/public/tyga.cloud/landing/orbstonia.com/trailer.gif" width="82%" alt="ORBSTONIA — nine neon worlds, first to the six-stone set takes the throne">
 </p>
 
 <p align="center">
   <a href="https://orbstonia.com"><img src="https://img.shields.io/badge/▶_PLAY_NOW-in_browser-ff33cc?style=for-the-badge"></a>
+  &nbsp;
+  <a href="https://prodmedia.tyga.host/public/tyga.cloud/landing/orbstonia.com/trailer.mp4"><img src="https://img.shields.io/badge/🎬_WATCH_TRAILER-18s-b233ff?style=for-the-badge"></a>
   &nbsp;
   <a href="https://github.com/jyswee/orbstonia/releases/latest"><img src="https://img.shields.io/badge/⬇_DOWNLOAD-latest-33ffff?style=for-the-badge"></a>
 </p>
