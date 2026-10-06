@@ -47,4 +47,8 @@ Pure neon. Pure speed. Pure skill.
 ---
 
 <p align="center">⚡ Real-time multiplayer powered by <a href="https://oddsockets.com"><b>OddSockets</b></a></p>
-<p align="center"><sub>© 2026 Tyga.Cloud Ltd · ORBSTONIA is a division of Tyga.Cloud Ltd</sub></p>
+<p align="center"><b>Copyright © 2026 Tyga.Cloud Ltd. All rights reserved.</b></p>
+<p align="center"><sub>ORBSTONIA™ and the ORBSTONIA logo are trade marks of Tyga.Cloud Ltd.<br>
+Protected automatically in the 182 contracting parties of the <a href="https://www.wipo.int/treaties/en/ip/berne/">Berne Convention</a> (WIPO) — no registration required.<br>
+See <a href="COPYRIGHT">COPYRIGHT</a> for the full notice. No licence is granted by publication.<br>
+The OddSockets client SDKs are published separately under the MIT Licence.</sub></p>
